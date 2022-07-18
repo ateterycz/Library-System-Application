@@ -1,0 +1,101 @@
+title,author,subject,publisher,publishingDate,id,finePerDayOverdue,costOfBook,location,circulationPeriod
+The Hunger Games,Suzanne Collins,Fantasy,Random House,2008,2767052,2,10.95,1,5
+Harry Potter and the Philosopher's Stone,"J.K. Rowling, Mary GrandPré",Science Fiction,Harper Collins,1997,3,4,20,2,15
+Twilight,Stephenie Meyer,Mystery,Oxford Press,2005,41865,6,5,3,3
+To Kill a Mockingbird,Harper Lee,Biography,Simon & Schuster,1960,2657,2,16.69,4,10
+The Great Gatsby,F. Scott Fitzgerald,Satire,Bloomsbury,1925,4671,4,22.16,1,7
+The Fault in Our Stars,John Green,Horror,Springer,2012,11870085,6,13.25,2,14
+The Hobbit or There and Back Again,J.R.R. Tolkien,Memoir,Penguin Classics,1937,5907,2,16.7,3,8
+The Catcher in the Rye,J.D. Salinger,Romance,Random House,1951,5107,4,25.5,4,20
+Angels & Demons ,Dan Brown,Fable,Harper Collins,2000,960,6,5.5,1,5
+Pride and Prejudice,Jane Austen,Historical Fiction,Oxford Press,1813,1885,2,10.95,2,15
+The Kite Runner ,Khaled Hosseini,Poetry,Simon & Schuster,2003,77203,4,20,3,3
+Divergent,Veronica Roth,Fantasy,Bloomsbury,2011,13335037,6,5,4,10
+Nineteen Eighty-Four,"George Orwell, Erich Fromm, Celâl Üster",Science Fiction,Springer,1949,5470,2,16.69,1,7
+Animal Farm: A Fairy Story,George Orwell,Mystery,Penguin Classics,1945,7613,4,22.16,2,14
+Het Achterhuis: Dagboekbrieven 14 juni 1942 - 1 augustus 1944,"Anne Frank, Eleanor Roosevelt, B.M. Mooyaart-Doubleday",Biography,Random House,1947,48855,6,13.25,3,8
+Män som hatar kvinnor,"Stieg Larsson, Reg Keeland",Satire,Harper Collins,2005,2429135,2,16.7,4,20
+Catching Fire,Suzanne Collins,Horror,Oxford Press,2009,6148028,4,25.5,1,5
+Harry Potter and the Prisoner of Azkaban,"J.K. Rowling, Mary GrandPré, Rufus Beck",Memoir,Simon & Schuster,1999,5,6,5.5,2,15
+ The Fellowship of the Ring,J.R.R. Tolkien,Romance,Bloomsbury,1954,34,2,10.95,3,3
+Mockingjay,Suzanne Collins,Fable,Springer,2010,7260188,4,20,4,10
+Harry Potter and the Order of the Phoenix,"J.K. Rowling, Mary GrandPré",Historical Fiction,Penguin Classics,2003,2,6,5,1,7
+The Lovely Bones,Alice Sebold,Poetry,Random House,2002,12232938,2,16.69,2,14
+Harry Potter and the Chamber of Secrets,"J.K. Rowling, Mary GrandPré",Fantasy,Harper Collins,1998,15881,4,22.16,3,8
+Harry Potter and the Goblet of Fire,"J.K. Rowling, Mary GrandPré",Science Fiction,Oxford Press,2000,6,6,13.25,4,20
+Harry Potter and the Deathly Hallows,"J.K. Rowling, Mary GrandPré",Mystery,Simon & Schuster,2007,136251,2,16.7,1,5
+The Da Vinci Code,Dan Brown,Biography,Bloomsbury,2003,968,4,25.5,2,15
+Harry Potter and the Half-Blood Prince,"J.K. Rowling, Mary GrandPré",Satire,Springer,2005,1,6,5.5,3,3
+Lord of the Flies ,William Golding,Horror,Penguin Classics,1954,7624,2,10.95,4,10
+An Excellent conceited Tragedie of Romeo and Juliet,"William Shakespeare, Robert           Jackson",Memoir,Random House,1595,18135,4,20,1,7
+Gone Girl,Gillian Flynn,Romance,Harper Collins,2012,8442457,6,5,2,14
+The Help,Kathryn Stockett,Fable,Oxford Press,2009,4667024,2,16.69,3,8
+Of Mice and Men ,John Steinbeck,Historical Fiction,Simon & Schuster,1937,890,4,22.16,4,20
+Memoirs of a Geisha,Arthur Golden,Poetry,Bloomsbury,1997,930,6,13.25,1,5
+Fifty Shades of Grey,E.L. James,Fantasy,Springer,2011,10818853,2,16.7,2,15
+O Alquimista,"Paulo Coelho, Alan R. Clarke",Science Fiction,Penguin Classics,1988,865,4,25.5,3,3
+The Giver,Lois Lowry,Mystery,Random House,1993,3636,6,5.5,4,10
+"The Lion, the Witch and the Wardrobe",C.S. Lewis,Biography,Harper Collins,1950,100915,2,10.95,1,7
+The Time Traveler's Wife,Audrey Niffenegger,Satire,Oxford Press,2003,14050,4,20,2,14
+A Game of Thrones,George R.R. Martin,Horror,Simon & Schuster,1996,13496,6,5,3,8
+"Eat, pray, love: one woman's search for everything across Italy, India and Indonesia",Elizabeth Gilbert,Memoir,Bloomsbury,2006,19501,2,16.69,4,20
+The Lightning Thief,Rick Riordan,Romance,Springer,2005,28187,4,22.16,1,5
+Little Women,Louisa May Alcott,Fable,Penguin Classics,1868,1934,6,13.25,2,15
+Jane Eyre,"Charlotte Brontë, Michael Mason",Historical Fiction,Random House,1847,10210,2,16.7,3,3
+The Notebook,Nicholas Sparks,Poetry,Harper Collins,1996,15931,4,25.5,4,10
+Life of Pi,Yann Martel,Fantasy,Oxford Press,2001,4214,6,5.5,1,7
+Water for Elephants,Sara Gruen,Science Fiction,Simon & Schuster,2006,43641,2,10.95,2,14
+The Book Thief,Markus Zusak,Mystery,Bloomsbury,2005,19063,4,20,3,8
+Fahrenheit 451,Ray Bradbury,Biography,Springer,1953,4381,6,5,4,20
+"New Moon (Twilight, #2)",Stephenie Meyer,Satire,Penguin Classics,2006,49041,2,16.69,1,5
+Where the Sidewalk Ends: The Poems and Drawings of Shel Silverstein,Shel Silverstein,Horror,Random House,1974,30119,4,22.16,2,15
+City of Bones,Cassandra Clare,Memoir,Harper Collins,2007,256683,6,13.25,3,3
+Eclipse,Stephenie Meyer,Romance,Oxford Press,2007,428263,2,16.7,4,10
+Eragon,Christopher Paolini,Fable,Simon & Schuster,2002,113436,4,25.5,1,7
+The Hitchhiker's Guide to the Galaxy,Douglas Adams,Historical Fiction,Bloomsbury,1979,11,6,5.5,2,14
+Brave New World,Aldous Huxley,Poetry,Springer,1932,5129,2,10.95,3,8
+Breaking Dawn,Stephenie Meyer,Fantasy,Penguin Classics,2008,1162543,4,20,4,20
+The Secret Life of Bees,Sue Monk Kidd,Science Fiction,Random House,2001,37435,6,5,1,5
+The Adventures of Huckleberry Finn,"Mark Twain, John Seelye, Guy Cardwell",Mystery,Harper Collins,1884,2956,2,16.69,2,15
+Charlotte's Web,"E.B. White, Garth Williams, Rosemary Wells",Biography,Oxford Press,1952,24178,4,22.16,3,3
+The Curious Incident of the Dog in the Night-Time,Mark Haddon,Satire,Simon & Schuster,2003,1618,6,13.25,4,10
+The Girl on the Train,Paula Hawkins,Horror,Bloomsbury,2015,22557272,2,16.7,1,7
+Northern Lights,Philip Pullman,Memoir,Springer,1995,119322,4,25.5,2,14
+Wuthering Heights,"Emily Brontë, Richard J. Dunn",Romance,Penguin Classics,1847,6185,6,5.5,3,8
+My Sister's Keeper,Jodi Picoult,Fable,Random House,2004,10917,2,10.95,4,20
+"Slaughterhouse-Five, or The Children's Crusade: A Duty-Dance with Death ",Kurt Vonnegut Jr.,Historical Fiction,Harper Collins,1969,4981,4,20,1,5
+Gone with the Wind,Margaret Mitchell,Poetry,Oxford Press,1936,18405,6,5,2,15
+A Thousand Splendid Suns,Khaled Hosseini,Fantasy,Simon & Schuster,2007,128029,2,16.69,3,3
+The Perks of Being a Wallflower,Stephen Chbosky,Science Fiction,Bloomsbury,1999,22628,4,22.16,4,10
+Insurgent,Veronica Roth,Mystery,Springer,2012,11735983,6,13.25,1,7
+Ender's Game,Orson Scott Card,Biography,Penguin Classics,1985,375802,2,16.7,2,14
+"Frankenstein; or, The Modern Prometheus","Mary Wollstonecraft Shelley, Percy Bysshe Shelley, Maurice Hindle",Satire,Random House,1818,18490,4,25.5,3,8
+The Shining,Stephen King,Horror,Harper Collins,1977,11588,6,5.5,4,20
+The Host,Stephenie Meyer,Memoir,Oxford Press,2008,1656001,2,10.95,1,5
+Looking for Alaska,John Green,Romance,Simon & Schuster,2005,99561,4,20,2,15
+,Helen Fielding,Fable,Bloomsbury,1996,227443,6,5,3,3
+Sense and Sensibility,"Jane Austen, Tony Tanner, Ros Ballaster",Historical Fiction,Springer,1811,14935,2,16.69,4,10
+Holes,"Louis Sachar, Louis Sachar",Poetry,Penguin Classics,1998,38709,4,22.16,1,7
+The Devil Wears Prada,Lauren Weisberger,Fantasy,Random House,2003,5139,6,13.25,2,14
+Ὀδύσσεια,"Homer, Robert Fagles, E.V. Rieu, Frédéric Mugler, Bernard Knox",Science Fiction,Harper Collins,-720,1381,2,16.7,3,8
+Le Petit Prince,"Antoine de Saint-Exupéry, Richard Howard, Dom Marcos Barbosa, Melina Karakosta",Mystery,Oxford Press,1946,157993,4,25.5,4,20
+The Glass Castle,Jeannette Walls,Biography,Simon & Schuster,2005,7445,6,5.5,1,5
+Into the Wild,Jon Krakauer,Satire,Bloomsbury,1996,1845,2,10.95,2,15
+A Tale of Two Cities,"Charles Dickens, Richard Maxwell, Hablot Knight Browne",Horror,Springer,1859,1953,4,20,3,3
+Jurassic Park,Michael Crichton,Memoir,Penguin Classics,1990,7677,6,5,4,10
+The Giving Tree,Shel Silverstein,Romance,Random House,1964,370493,2,16.69,1,7
+A Time to Kill,John Grisham,Fable,Harper Collins,1989,32542,4,22.16,2,14
+Un di Velt Hot Geshvign,"Elie Wiesel, Marion Wiesel",Historical Fiction,Oxford Press,1958,1617,6,13.25,3,8
+Paper Towns,John Green,Poetry,Simon & Schuster,2008,6442769,2,16.7,4,20
+The Princess Bride,William Goldman,Fantasy,Bloomsbury,1973,21787,4,25.5,1,5
+The Outsiders,S.E. Hinton,Science Fiction,Springer,1967,231804,6,5.5,2,15
+The Maze Runner,James Dashner,Mystery,Penguin Classics,2009,6186357,2,10.95,3,3
+Freakonomics: A Rogue Economist Explores the Hidden Side of Everything,"Steven D. Levitt, Stephen J. Dubner",Biography,Random House,2005,1202,4,20,4,10
+The Secret Garden,Frances Hodgson Burnett,Satire,Harper Collins,1911,2998,6,5,1,7
+Cien años de soledad,"Gabriel García Márquez, Gregory Rabassa",Horror,Oxford Press,1967,320,2,16.69,2,14
+The Picture of Dorian Gray,"Oscar Wilde, Jeffrey Eugenides",Memoir,Simon & Schuster,1891,5297,4,22.16,3,8
+Fifty Shades Freed,E.L. James,Romance,Bloomsbury,2012,13536860,6,13.25,4,20
+Dracula,"Bram Stoker, Nina Auerbach, David J. Skal",Fable,Springer,1897,17245,2,16.7,1,5
+Flickan som lekte med elden,"Stieg Larsson, Reg Keeland",Historical Fiction,Penguin Classics,2006,5060378,4,25.5,2,15
+Fifty Shades Darker,E.L. James,Poetry,Random House,2011,11857408,6,5.5,3,3
+The Poisonwood Bible,Barbara Kingsolver,Fantasy,Harper Collins,1998,7244,2,10.95,4,10
